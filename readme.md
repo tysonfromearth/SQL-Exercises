@@ -3,4 +3,6 @@ This project houses examples of my SQL code from SQL related quizzes and assignm
 
 ### Getting Started
 
-Click on any of the .sql files to view samples of SQL code related to the topic described in the file name.
+Click on any of the .sql files to view samples of SQL code related to the topic described in the file name.*
+
+*Note that SQL Window Functions and SQL Advanced Joins and Performance Tuning files are currently empty. Content will be added at a later date.
